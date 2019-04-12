@@ -24,7 +24,7 @@ With you partner, predict what you'll see in the REPL when you run each line in 
 
 Past the following code snippets into a JS file. With your partner, try to predict what will the `console.log`s will print out . Then run the code and compare the result to your predictions.
 
-If you missed any, discuss with your partner, and see if you can figure out what the code is doing. If you get stuck, raise your hand and I'll come over!
+If you missed any, discuss with your partner, and see if you can figure out what the code is doing. If you get stuck, ask your instructor to come over!
 
 A great way to get more comfortable with variables is to make changes in the examples below and see how what gets printed out changes. Small changes can have big consequences, which is part of what makes programming so powerful!
 
@@ -65,7 +65,7 @@ console.log(lastChar); // ?
 console.log(sentence.indexOf(lastChar)); // ?
 ```
 
-#### Variable Exercise 3
+#### (Bonus) Variable Exercise 3
 
 Past the following code snippets into a JS file. With your partner, declare the necessary variables and assign them values so that the code prints out the message at the bottom.
 
