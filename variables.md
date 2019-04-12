@@ -88,7 +88,7 @@ Available operators are `+=`, `-=`, `*=`, `/=`, `%=`, `++`, and `--`.
 
 #### Exercises 2 & 3
 
-Pause here and do [exercises 2 & 3](./exercises.md#variable-exercise-2).
+Pause here and do [exercises 2 & 3](./exercises.md#variable-exercise-part-2).
 
 #### Good Variable Names
 
