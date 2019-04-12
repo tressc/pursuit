@@ -34,9 +34,9 @@ Here we use the single equals `=` *assignment operator* to put a value "inside" 
 We can do **declaration** and **assignment** all at the same time on one line:
 
 ```js
-var myName = "colin";
+var myName = "frodo";
 
-console.log(myName) //=> colin
+console.log(myName) //=> frodo
 ```
 
 Notice that we only use var the first time we introduce the new variable!

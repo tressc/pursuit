@@ -51,7 +51,7 @@ console.log(!isOdd); // ?
 var str1 = 'marker';
 var num = 'whiteboard'.length - str1.length;
 console.log(num); // ?
-var str2 = 'bootcamp';
+var str2 = 'pursuit';
 console.log(str2[num].toUpperCase()); // ?
 var char = str2[num].toLowerCase(); // ?
 console.log(char + '!'); // ?
@@ -59,7 +59,7 @@ console.log(char + '!'); // ?
 
 ```js
 // 4
-var sentence = 'welcome to bootcamp prep';
+var sentence = 'it was a dark and stormy night';
 var lastChar = sentence[sentence.length - 1];
 console.log(lastChar); // ?
 console.log(sentence.indexOf(lastChar)); // ?
@@ -71,21 +71,21 @@ Past the following code snippets into a JS file. With your partner, declare the 
 
 ```js
 // 1
+var message = greeting + " " + name;
+var excited = message.toUpperCase() + "!!!";
+console.log(excited) //=> "OH HI MARK!!!"
+```
+
+```js
+// 2
 var c = a + b;
 var d = c / 3;
 console.log(d) //=> 6
 ```
 
 ```js
-// 2
+// 3
 var percent = (tip / mealCost) * 100
 var isReallyBigTip = percent > 50;
 console.log(isReallyBigTip) //=> true
-```
-
-```js
-// 3
-var message = greeting + " " + name;
-var excited = message.toUpperCase() + "!!!";
-console.log(excited) //=> "OH HI MARK!!!"
 ```
