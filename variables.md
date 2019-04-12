@@ -1,6 +1,6 @@
 ### Variables:
 
-All the work we've done in a REPL up to this point has kind of been like using a handheld calculator. We can do some operation, but as soon as we do something else, the old information is gone. That's not very useful, so we need a way to store information over time!
+All the work we've done in a REPL up to this point has kind of been like using a handheld calculator. We can do one operation, but as soon as we do a second, the old result is gone. That's not very useful, so we need a way to store information over time!
 
 #### Variables to the rescue!
 
@@ -56,7 +56,9 @@ console.log(currentYear)
 
 To *re-assign* a variable, we must use the assignment operator. `var` is no longer necessary.
 
-#### >>> do exercise 1
+#### Exercise 1
+
+Pause here and do [exercise 1](./exercises.md).
 
 #### Helpful Re-assignment Tricks
 
@@ -84,7 +86,9 @@ console.log(myVar); // 10
 
 Available operators are `+=`, `-=`, `*=`, `/=`, `%=`, `++`, and `--`.
 
-#### >>> do exercises 2 & 3
+#### Exercises 2 & 3
+
+Pause here and do [exercises 2 & 3](./exercises.md).
 
 #### Good Variable Names
 
