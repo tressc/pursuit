@@ -1,7 +1,5 @@
 ### Variables:
 
-Assume basic familiarity with data types, as well as math, logic, and comparison operators. That said, if anyone has a question about any of these topics, explore it with them!
-
 All the work we've done in a REPL up to this point has kind of been like using a handheld calculator. We can do some operation, but as soon as we do something else, the old information is gone. That's not very useful, so we need a way to store information over time!
 
 #### Variables to the rescue!
@@ -58,7 +56,7 @@ console.log(currentYear)
 
 To *re-assign* a variable, we must use the assignment operator. `var` is no longer necessary.
 
-#### Do exercise 1
+#### >>> do exercise 1
 
 #### Helpful Re-assignment Tricks
 
@@ -86,7 +84,7 @@ console.log(myVar); // 10
 
 Available operators are `+=`, `-=`, `*=`, `/=`, `%=`, `++`, and `--`.
 
-#### Do exercises 2 & 3
+#### >>> do exercises 2 & 3
 
 #### Good Variable Names
 
@@ -99,11 +97,12 @@ Variable names can only contain:
   - numbers
   - underscores
   - dollar signs
-    - better: `var twenty_20$Dollars = 20`
-    - worse: `var 20-twenty.dollars = 20`
 
-Also variable names can *never start with a number.*
+Variable names can *never start with a number.*
+  - better: `var twenty_20$Dollars = 20`
+  - worse: `var 20-twenty.dollars = 20`
 
+*In a REPL, test out what happens when you declare the "worse" variable above.*
 
 **Conventions:**
 
@@ -115,3 +114,5 @@ Variable names:
     - better: `var smallNumber = 15`
     - worse: `var x = 15`
     - worse: `var aReallySmallNumberIMeanSuperSmall = .00002`
+
+*In a REPL, test out what happens when you declare the "worse" variables above.*
